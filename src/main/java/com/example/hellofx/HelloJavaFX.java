@@ -1,5 +1,5 @@
 package com.example.hellofx;
-
+//importing the neccessary imports
 import javafx.application.Application;
 import javafx.geometry.Pos;
 import javafx.scene.Scene;
